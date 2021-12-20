@@ -1,10 +1,10 @@
 
-<h1 align="center">test 6  👋</h1>
+<h1 align="center">README Generator </h1>
   
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
 
 ## Description
-🔍 desc
+ Generating README
 
 ## Table of Contents
 - [Description](#description)
@@ -16,28 +16,27 @@
 - [Questions](#questions)
 
 ## Installation
-💾 no process
+ none
 
 ## Usage
-💻 readme 
+ to generate README
 
 ## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-Apache-brightgreen)
 <br />
-This application is covered by the MIT license. 
+This application is covered by the Apache license. 
 
 ## Contributing
-👪 me
+ Me
 
 ## Tests
-✏️ mo
+ No there is not 
 
 ## Questions
-✋ email<br />
+ Email me <br />
 <br />
 :octocat: Find me on GitHub: [rokamba](https://github.com/rokamba)<br />
 <br />
-✉️ Email me with any questions: rokamba<br /><br />
-
+Email me with any questions: rokamba92@gmaol.com<br /><br />
 
     

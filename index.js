@@ -96,8 +96,5 @@ const promptUser = () => {
 
 
  promptUser();
-// const generateContent = generateReadme(answers);
-// fs.writeFile('./dist/README.md', generateContent);
-// console.log('  Successfully wrote to README.md');
- //console.log(answers)
+
     
